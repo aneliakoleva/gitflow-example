@@ -7,6 +7,10 @@ body {
   margin: auto;
 }
 
+.row {
+  padding: 20px;
+}
+
 .header {
   position: relative;
   height: 40px;
