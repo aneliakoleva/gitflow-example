@@ -11,3 +11,7 @@ body {
   position: relative;
   height: 40px;
 }
+
+.footer {
+  background-color: red;
+}
